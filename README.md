@@ -1,20 +1,20 @@
-#🌱 This is Elif Canpolat's repository£#
+# 🌱 This is Elif Canpolat's repository
 
-###Pronouns: She/her###
-
-
-###Currently learning: Python & Data Science###
+### Pronouns: She/her
 
 
-###A proud student of HyperionDevs###
+### Currently learning: Python & Data Science
 
-**Working Experience**
 
-Director Assistant _2ndAD_ _2009-2012_
+### A proud student of HyperionDevs
 
-Video Editor _2014-2024_
+**EXPERIENCE**
 
-Data Scientist _from now on :)_
+-Director Assistant 2ndAD   _2009-2012_
+
+-Video Editor               _2014-2024_
+
+-Data Scientist             _from now on :)_
 
 **If you'd like to see my showreel please click :** https://vimeo.com/manage/videos/515813398
 
