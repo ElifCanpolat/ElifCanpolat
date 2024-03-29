@@ -5,7 +5,7 @@
 ###A proud student of HyperionDevs
 
 **Working Experience**
-Director Assistant <2ndAD> _2009-2012_
+Director Assistant _2ndAD_ _2009-2012_
 Video Editor _2014-2024_
 Data Scientist _from now on :)_
 
