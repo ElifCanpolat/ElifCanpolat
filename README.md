@@ -1,8 +1,8 @@
-#🌱 This is Elif Canpolat's repository
+#🌱 This is Elif Canpolat's repository£#
 
-###Pronouns: She/her
-###Currently learning: Python & Data Science
-###A proud student of HyperionDevs
+###Pronouns: She/her###
+###Currently learning: Python & Data Science###
+###A proud student of HyperionDevs###
 
 **Working Experience**
 Director Assistant _2ndAD_ _2009-2012_
