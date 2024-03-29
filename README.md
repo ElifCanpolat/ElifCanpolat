@@ -1,4 +1,4 @@
-# 🌱 This is Elif Canpolat's repository
+# 🌱 This is Elif Canpolat's repository 
 
 ### Pronouns: She/her
 
@@ -10,11 +10,11 @@
 
 **EXPERIENCE**
 
--Director Assistant 2ndAD   _2009-2012_
+-Director Assistant 2ndAD   _2009-2012_      🔑🎓📝
 
--Video Editor               _2014-2024_
+-Video Editor               _2014-2024_      🎥💻🎬
 
--Data Scientist             _from now on :)_
+-Data Scientist             _from now on :)_ 🐣🐥
 
 **If you'd like to see my showreel please click :** https://vimeo.com/manage/videos/515813398
 
